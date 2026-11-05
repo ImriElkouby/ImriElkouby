@@ -11,9 +11,9 @@ I'm interested in data analysis, product and project management, and implementin
 
 ## Featured project
 
-**[Security Incidents Analysis](https://github.com/ImriElkouby/Data-Analysis-Project)**
-A team project analyzing a public Kaggle dataset of conflict-related incidents: seasonality, geographic distribution, and severity trends.
-Built with Python, Pandas, and NumPy in Jupyter.
+**[Map of Memories: Terror Attacks Data Analysis](https://github.com/ImriElkouby/map-of-memories-data-analysis)**
+A team project analyzing 881 victims and 356 attacks against Israeli civilians (2000–2023): seasonality, geographic distribution and victim patterns.
+Built with Python, Pandas and Seaborn in Jupyter.
 
 ## Background
 
